@@ -19,6 +19,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerVeReferansTipler", "DegerVeReferansTipler\DegerVeReferansTipler.csproj", "{50572D3E-3531-4843-8DA4-6700661F1F62}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMetotDemo", "ClassMetotDemo\ClassMetotDemo.csproj", "{1BE0A6B2-3D61-45CF-BD66-7E0FFA72E174}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{50572D3E-3531-4843-8DA4-6700661F1F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50572D3E-3531-4843-8DA4-6700661F1F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50572D3E-3531-4843-8DA4-6700661F1F62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BE0A6B2-3D61-45CF-BD66-7E0FFA72E174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE0A6B2-3D61-45CF-BD66-7E0FFA72E174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE0A6B2-3D61-45CF-BD66-7E0FFA72E174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE0A6B2-3D61-45CF-BD66-7E0FFA72E174}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
