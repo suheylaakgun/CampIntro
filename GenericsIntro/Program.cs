@@ -6,3 +6,10 @@ MyList<string> myList = new MyList<string>();
 myList.Add("Engin");
 myList.Add("İlker");
 
+foreach (var item in myList.Items) 
+{
+    Console.WriteLine(item);
+
+}
+
+
